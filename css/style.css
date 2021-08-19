@@ -1,0 +1,96 @@
+@import url ('https://fonts.googleapis.com/css2? family = Encode + Sans + SC: wght @ 300 & family = Roboto: ital, wght @ 1300 & display = swap');
+*
+{
+	margin: 0;
+	
+}
+body
+{
+	background-image: url(../img/fondo2.png);
+}
+h1
+{
+	color: #DAAE00;
+}
+nav
+{
+	background-color: #065A9A;
+}
+h2
+{
+	color: #065A9A;
+}
+h3
+{
+	color: #065A9A;
+}
+a
+{
+	color: #1D3ACC;
+}
+p 
+{
+	font-family: 'Encode Sans SC', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 26px;
+	letter-spacing: 1px;
+	word-spacing: 5px;
+	width: 50%;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+h1, h2, h3
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+nav ul li a 
+{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+li
+{
+	padding: 0,7;
+	list-style: none;
+}
+td 
+{
+	text-align: center;
+}
+#logo
+{
+	height: 100px;
+	width: 100px;
+}
+.con-color
+{
+	color: #065A9A;
+}
+.textCenter
+{
+	text-align: center;
+}
+.textRigth
+{
+	text-align: right;
+}
+.textUppercase
+{
+	text-transform: uppercase;
+	
+}
+.textThrough
+{
+	text-decoration: line-through;
+}
+
+.TituloTablas
+{
+	background-color: #065A9A;
+	text-align: center;
+	color: white;
+}
